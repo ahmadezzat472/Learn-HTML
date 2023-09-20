@@ -8,7 +8,7 @@
 				
 
 # Learn HTML   
-   <div align="center">
+<div align="center">
 	<img src="https://www.onlygfx.com/wp-content/uploads/2018/04/completed-stamp-4-1024x791.png" width="200">
 	<br><br>
 	<p>Elzero Web School HTML Course Assignments Solution</p>
@@ -44,11 +44,11 @@
 <br>
 
 ## 8️⃣ Form Part 3
-#### [codes for lessons from [31] to [34]]()  
-    
+#### [codes for lessons from [31] to [34]](https://github.com/ahmadezzat472/Learn-HTML/tree/main/sheet_8%3B%2031-34)  
+<br>
 
 ## 9️⃣ iFrame, ARIA
-#### [codes for lessons from [35] to [37]]()  
+#### [codes for lessons from [35] to [37]](https://github.com/ahmadezzat472/Learn-HTML/tree/main/sheet_9%3B%2035-37)  
    
 
 
