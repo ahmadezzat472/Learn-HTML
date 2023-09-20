@@ -1,19 +1,14 @@
-
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji" >
-	<div align="center"><br><b>HTML Course</b></div>
-</a>
-<br>
-				
-![](https://i.imgur.com/waxVImv.png)
-				
-
 # Learn HTML   
 <div align="center">
-	<img src="https://www.onlygfx.com/wp-content/uploads/2018/04/completed-stamp-4-1024x791.png" width="200">
+	<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 	<br><br>
+	<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji" >
+		<b>HTML Course</b>
+		<br>
+	</a>
 	<p>Elzero Web School HTML Course Assignments Solution</p>
 </div>	
-
+<br><br><br>
 
 ## 1️⃣ Elements And Comments
 #### [codes for lessons from [01] to [05]](https://github.com/ahmadezzat472/Learn-HTML/tree/main/sheet_1%3B%2001-05)  
